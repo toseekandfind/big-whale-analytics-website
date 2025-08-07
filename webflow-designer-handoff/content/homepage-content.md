@@ -1,47 +1,74 @@
-# Homepage Content - Big Whale Analytics
+# Homepage Content - Big Whale Analytics (Updated Style)
 
 ## 🏠 Page Structure
 
 ### 1. Hero Section
-**Background:** Light gray gradient  
-**Layout:** 2-column grid (desktop), stacked (mobile)
+**Background:** Clean white with subtle gradient  
+**Layout:** Centered content with clear hierarchy
 
-#### Left Column
+#### Hero Content
 - **H1:** "Turn Raw Data Into Decision-Ready Insights"
 - **Subheadline:** "We help high-growth companies build reliable analytics foundations that drive real business outcomes."
+- **Mission Statement:** "By nature, we are problem solvers and strategic thinkers, fully capable of delivering high-quality data solutions that scale with your business growth."
 - **CTA Buttons:**
-  - Primary: "Get Your Free Data Assessment" (links to contact form)
-  - Secondary: "View Our Work" (links to case studies page)
+  - Primary: "Get Your Free Data Assessment"
+  - Secondary: "Download Data Strategy Framework"
 
-#### Right Column
-- **Image:** Data visualization mockup or whale logo illustration
-- **Alt Text:** "Data analytics dashboard showing business insights"
+#### Hero Image
+- **Image:** Clean data visualization or modern office environment
+- **Alt Text:** "Professional data analytics team working on business insights"
 
 ### 2. Value Proposition Section
-**Background:** White  
+**Background:** Light gray section  
 **Layout:** 3-column grid (desktop), stacked (mobile)
 
 #### Section Header
-- **H2:** "Why Big Whale Analytics?"
+- **H2:** "How We Bring Value to Your Analytics Team"
 
-#### Three Benefit Cards
+#### Three Value Cards
 
-**Card 1: Business-Focused Approach**
+**Card 1: Business Intelligence & Strategy**
 - **Icon:** Chart with business building
-- **Title:** "Business-Focused Approach"
-- **Description:** "We don't just build dashboards—we solve business problems. Every metric ties back to your growth goals with clear ROI on every project."
+- **Title:** "Business Intelligence & Strategy"
+- **Description:** "Statistical analysis, forecasting, cost reduction, and inventory management. We don't just build dashboards—we solve business problems with data."
 
 **Card 2: Technical Excellence**
 - **Icon:** Code/technical icon
 - **Title:** "Technical Excellence"
 - **Description:** "Expert-level dbt, Snowflake, and Fivetran implementation. Scalable, maintainable data models that grow with your business."
 
-**Card 3: Hands-On Partnership**
+**Card 3: Partnership Approach**
 - **Icon:** Handshake or partnership icon
-- **Title:** "Hands-On Partnership"
+- **Title:** "Partnership Approach"
 - **Description:** "We work alongside your team, not just deliver and leave. Knowledge transfer and training included for long-term success."
 
-### 3. Services Preview Section
+### 3. Modern Data Stack Section
+**Background:** White  
+**Layout:** Centered with grid layout
+
+#### Section Header
+- **H2:** "Our Modern Data Stack"
+- **Subheadline:** "The software, services and tools we use to deliver high-quality analytics solutions"
+
+#### Technology Grid
+**Row 1: Core Tools**
+- dbt (Data Build Tool)
+- Snowflake
+- Databricks
+- Fivetran
+
+**Row 2: Visualization & Reporting**
+- Looker/Tableau
+- Power BI
+- Custom Dashboards
+
+**Row 3: Advanced Analytics**
+- Python for advanced analytics and data ingestion
+- Git and version control
+- CI/CD for data pipelines
+- Orchestration of data
+
+### 4. Services Preview Section
 **Background:** Light gray  
 **Layout:** 3-column grid (desktop), stacked (mobile)
 
@@ -70,9 +97,9 @@
   - Technical debt reduction
 - **Link:** "Learn More" → Services page
 
-**Card 3: Reporting & Analytics**
+**Card 3: Analytics & Reporting**
 - **Icon:** Dashboard or chart icon
-- **Title:** "Reporting & Analytics"
+- **Title:** "Analytics & Reporting"
 - **Description:** "KPI framework development, executive dashboards, and self-service analytics enablement for data-driven decision making."
 - **Key Features:**
   - KPI framework development
@@ -80,7 +107,17 @@
   - Self-service analytics
 - **Link:** "Learn More" → Services page
 
-### 4. Social Proof Section
+### 5. Process Transparency Section
+**Background:** White  
+**Layout:** Centered content with image
+
+#### Section Content
+- **H2:** "Our Process Transparency"
+- **Subheadline:** "Throughout our projects, you'll see our actual process with detailed methodology, before/after comparisons, and clear ROI calculations."
+- **Image:** Process diagram or methodology illustration
+- **Text:** "We believe in complete transparency in our approach. Each case study includes our actual methodology, implementation details, and measurable results."
+
+### 6. Social Proof Section
 **Background:** Primary Blue (with white text)  
 **Layout:** Centered content with testimonial
 
@@ -91,13 +128,13 @@
 - **Quote:** "Big Whale Analytics transformed our data chaos into a clean, reliable foundation. Our reporting went from reactive to proactive, and we can now make decisions with confidence."
 - **Client:** "Sarah Chen, VP of Analytics at TechFlow"
 
-#### Trust Indicators (Optional)
+#### Trust Indicators
 - **Stats:** "50+ companies served"
 - **Stats:** "90% average performance improvement"
 - **Stats:** "24/7 data availability"
 - **Stats:** "98% client satisfaction"
 
-### 5. Final CTA Section
+### 7. Final CTA Section
 **Background:** White  
 **Layout:** Centered content
 
@@ -105,8 +142,8 @@
 - **H2:** "Ready to Transform Your Data?"
 - **Subheadline:** "Let's discuss how we can help you build a data foundation that scales with your business."
 - **CTA Buttons:**
-  - Primary: "Schedule a Free Consultation" (links to contact form)
-  - Secondary: "Download Our Data Stack Guide" (links to resources page)
+  - Primary: "Schedule a Free Consultation"
+  - Secondary: "Download Data Strategy Framework"
 
 ## 📱 Mobile Considerations
 
@@ -120,6 +157,11 @@
 - Stack vertically
 - Add more spacing between cards
 - Consider reducing icon size
+
+### Technology Stack
+- Display in 2-3 columns on mobile
+- Use smaller icons
+- Maintain readability
 
 ### Services Preview
 - Stack cards vertically
@@ -151,6 +193,7 @@
 - Trust indicators (stats)
 - Clear value propositions
 - Professional design and copy
+- Process transparency
 
 ## 📊 SEO Elements
 
@@ -171,4 +214,4 @@
 
 ---
 
-**This homepage is designed to immediately communicate value, build trust, and drive visitors toward consultation bookings.** 
+**This updated homepage incorporates the clean, professional style of Antoine Mack's site while maintaining Big Whale Analytics' business focus and conversion optimization.** 

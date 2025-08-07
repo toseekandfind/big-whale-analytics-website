@@ -1,62 +1,92 @@
-# Big Whale Analytics - Webflow Designer Handoff Package
+# Big Whale Analytics - Simple 7-Day Website Build
 
-## 📋 Project Overview
+## 🎯 Quick Start for AI-Assisted Development
 
-**Client:** Big Whale Analytics  
-**Project Type:** Business Website  
-**Industry:** Data Analytics Consulting  
-**Target Audience:** High-growth companies needing data infrastructure and analytics solutions
+**Goal:** Build a professional data consulting website in 7 days using AI assistance
 
-## 🎯 Project Goals
+## 📋 What You Need (Minimal)
 
-1. **Lead Generation:** Convert visitors into consultation bookings
-2. **Credibility Building:** Showcase expertise in modern data stack (dbt, Snowflake, Fivetran)
-3. **Service Showcase:** Clearly communicate 5 core service offerings
-4. **Trust Building:** Display case studies and social proof
-5. **Brand Positioning:** Position as premium data consulting for growth companies
+### 1. Core Pages (6 total)
+- **Homepage** - Hero, services preview, CTA
+- **Services** - 5 service descriptions
+- **About** - Company story and expertise
+- **Case Studies** - 3 client success stories
+- **Resources** - Downloadable Data Strategy Framework
+- **Contact** - Contact form and consultation booking
 
-## 📁 Package Contents
+### 2. Design System (Simple)
+- **Colors:** Blue (#1E40AF), Light Gray (#F3F4F6), White
+- **Fonts:** Inter (Google Fonts)
+- **Layout:** Clean, minimal, mobile-responsive
 
-### Design Assets
-- `assets/` - All visual assets (logos, images, icons)
-- `design-specs/` - Detailed design specifications and brand guidelines
-- `wireframes/` - Page structure and layout wireframes
+### 3. Content (Ready to Use)
+- All copy provided in `content/` folder
+- Data Strategy Framework for lead generation
+- SEO meta descriptions included
 
-### Content
-- `content/` - All website copy organized by page
-- `copy-by-page/` - Page-specific content files
-- `meta-content/` - SEO meta descriptions and social media content
+## 🚀 7-Day Build Plan
 
-### Technical Specifications
-- `webflow-specs/` - Webflow-specific implementation details
-- `cms-structure/` - Content Management System setup
-- `integrations/` - Third-party integrations and forms
+### Day 1-2: Foundation
+- Set up Webflow project
+- Create design system (colors, fonts, components)
+- Build header and footer
 
-### Project Management
-- `timeline/` - Project timeline and milestones
-- `deliverables/` - Expected deliverables and acceptance criteria
+### Day 3-4: Core Pages
+- Build homepage with hero, services preview, CTA
+- Create services page with 5 service descriptions
+- Build about page with company story
 
-## 🚀 Quick Start Guide
+### Day 5-6: Additional Pages
+- Create case studies page with 3 stories
+- Build resources page with downloadable framework
+- Create contact page with form
 
-1. **Review Design System** → `design-specs/brand-guidelines.md`
-2. **Set Up Project** → `webflow-specs/project-setup.md`
-3. **Build Pages** → Follow `content/` structure
-4. **Configure CMS** → `cms-structure/` for dynamic content
-5. **Test & Launch** → `timeline/launch-checklist.md`
+### Day 7: Polish & Launch
+- Add SEO meta tags
+- Test mobile responsiveness
+- Connect forms and launch
+
+## 📁 Essential Files
+
+### Content (Copy & Paste)
+- `content/homepage-content.md` - Homepage copy
+- `content/all-page-content.md` - All page content
+- `content/data-strategy-framework.md` - Lead generation tool
+
+### Design (Simple)
+- `design-specs/brand-guidelines.md` - Colors, fonts, components
+
+### Technical (Minimal)
+- `webflow-specs/project-setup.md` - Basic Webflow setup
 
 ## 🎨 Design Philosophy
 
-**Modern & Professional:** Clean, minimalist design that conveys technical expertise  
-**Business-Focused:** Every element should drive toward consultation bookings  
-**Trust-Building:** Social proof and case studies prominently featured  
-**Mobile-First:** Responsive design optimized for all devices  
+**Keep It Simple:**
+- Clean, minimal design
+- Focus on conversion (CTAs)
+- Mobile-first responsive
+- Professional appearance
 
-## 📞 Contact Information
+**No Complex Features:**
+- No CMS collections initially
+- No advanced animations
+- No complex integrations
+- Just clean, functional pages
 
-**Client Contact:** [To be provided]  
-**Project Manager:** [To be provided]  
-**Technical Questions:** [To be provided]
+## 📊 Success Metrics
+
+### Technical
+- [ ] All 6 pages built
+- [ ] Mobile responsive
+- [ ] Forms working
+- [ ] Fast loading
+
+### Business
+- [ ] Data Strategy Framework downloadable
+- [ ] Contact form captures leads
+- [ ] Professional appearance
+- [ ] Clear service descriptions
 
 ---
 
-**Ready to build an amazing website that converts visitors into clients! 🐋📊** 
+**Ready to build a simple, effective website in 7 days! 🚀** 
